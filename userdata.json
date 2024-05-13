@@ -1,0 +1,26 @@
+{
+  "annika_stadler": {
+    "username": "annika_stadler",
+    "first name": "Annika",
+    "last name": "Stadler",
+    "password": "Zigzag66!",
+    "email": "a.stadler.studios@gmail.com",
+    "role": "admin"
+  },
+  "clackowski15": {
+    "username": "clackowski15",
+    "first name": "Christopher",
+    "last name": "Lackowski",
+    "password": "Chelsea26!",
+    "email": "lackowski.c@northeastern.edu",
+    "role": "client"
+  },
+  "sal": {
+    "username": "sal",
+    "first name": "Sally",
+    "last name": "Appleseed",
+    "password": "Password!",
+    "email": "christopherlackowski@yahoo.com",
+    "role": "client"
+  }
+}
